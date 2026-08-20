@@ -10,7 +10,7 @@ An end-to-end healthcare analytics pipeline that ingests synthetic patient data,
 
 ## Dashboard preview
 
-![Dashboard overview] (screenshots/PBI_Hedis_measures _report_output.png)
+![Dashboard overview](screenshots/PBI_Hedis_measures _report_output.png)
 
 
 
