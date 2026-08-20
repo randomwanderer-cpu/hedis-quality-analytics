@@ -10,8 +10,8 @@ An end-to-end healthcare analytics pipeline that ingests synthetic patient data,
 
 ## Dashboard preview
 
-![Dashboard overview](screenshots/PBI_Hedis_measures _report_output.png)
-*KPI summary across all four measures, sliced by demographic and region.*
+![Dashboard overview](screenshots/PBI_Hedis_measures_report_output.png)
+
 
 
 **Important disclaimer:** This project implements measure logic *inspired by* HEDIS methodology. NCQA (the National Committee for Quality Assurance) owns the official HEDIS technical specifications and value sets, which are licensed, not public. This project does not use or claim to reproduce NCQA-certified logic. It demonstrates the same class of engineering and analytical problem — denominator/numerator/exclusion logic, continuous enrollment requirements, small-cell suppression — using publicly documented HEDIS concepts and self-derived code lists.
